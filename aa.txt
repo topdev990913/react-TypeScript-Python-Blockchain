@@ -1,0 +1,1 @@
+// "start": "node ./src/setupTests.js | react-scripts --openssl-legacy-provider start",
